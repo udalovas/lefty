@@ -2840,8 +2840,7 @@ body {
   #banner p {
     color: #fff;
     font-size: 1.5em;
-    margin-bottom: 1.75em;
-    text-transform: uppercase; }
+    margin-bottom: 1.75em; }
   #banner .avatar {
     border-radius: 100%;
     display: inline-block;
