@@ -12,8 +12,6 @@ var ArticleList = React.createClass({
     }
 });
 
-alert('list');
-
 ReactDOM.render(
     <ArticleList />,
     document.getElementById('zero')
