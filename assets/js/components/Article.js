@@ -1,4 +1,3 @@
-alert('list');
 var Article = React.createClass({
     render: function () {
         return <article className="feature left">
